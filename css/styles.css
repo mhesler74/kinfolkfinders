@@ -1,0 +1,223 @@
+html {
+	width: 100%;
+	font-size: 13px;
+	font-family: Times New Roman Greek;
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background-color: #FEEECC;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+img {
+	border: 0px;
+}
+a {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #0000EE;
+}
+a:hover {
+	color: #551A8B;
+}
+ul {
+	margin-left: 10px;
+	padding-left: 10px;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.4em;
+	margin-top: 0px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+tr {
+	padding: 0px;
+	margin: 0px;
+}
+td {
+	padding: 0px;
+	margin: 0px;
+}
+p {
+	margin: 0px 0px 10px 0px;
+}
+
+/******************** Header ********************/
+.header {
+	background-image: url(../images/headerbackground.gif);
+	font-family: CAC Krazy Legs Bold;
+	font-size: 1.4em;
+	text-align:center;
+	height: 161px;
+	float:left;
+	vertical-align: middle;
+	width:100%;
+}
+.header p {
+	margin: 0px;
+}
+.company_name {
+	font-size: 3em;
+	padding: 10px 0px;
+}
+
+/******************** Navigation ********************/
+.navigation {
+	vertical-align: top;
+	width: 205px;
+}
+.navigation a {
+	color: #000000;
+}
+.navigation ul {
+}
+.navigation ul li {
+	font-size: 1.1em;
+	list-style-type: none;
+	padding-top: .3em;
+	padding-bottom: .3em;
+	padding-left: 15px;
+	text-indent: -15px;
+}
+.navigation ul li.active {
+	list-style-type: disc;
+	background-color: #FFFFFF;
+}
+.navigation ul li:hover {
+	list-style-type: circle;
+	background-color: #EEDEBC;
+}
+.navigation ul ul {
+}
+.navigation ul ul li {
+	font-size: 1.0em;
+	padding-left: 15px;
+	text-indent: -15px;
+}
+
+/******************** Content ********************/
+.content_area {
+	padding: 20px;
+	background-color: #ffffff;
+}
+.content {
+}
+.bodytext {
+	vertical-align: top;
+}
+.content img {
+	padding-right: 10px;
+}
+
+.column {
+	width: 260px;
+	float:left;
+	margin-left: 20px;
+}
+
+/******************** Book Details ********************/
+.book_description img {
+	float:left;
+	margin-right: 10px;
+	padding-bottom: 10px;
+}
+.book_review {
+	clear:both;
+}
+.book_price {
+}
+
+/******************** Book Listing ********************/
+.book_list {
+	text-align: left;
+}
+.book_list td {
+	width: 33%;
+	padding: 0em 1em 0em .8em;
+	vertical-align: top;
+}
+.book_list img {
+	vertical-align: bottom;
+}
+.caption {
+	display: block;
+	width: 11em;
+}
+/******************** Content Frame ********************/
+.frame {
+}
+.frame .topLeft {
+	background-image: url(../images/bodyTopLeft.gif);
+	width: 74px;
+	min-width: 74px;
+	height: 70px;
+	white-space: nowrap;
+}
+
+.frame .topCenter {
+	background-image: url(../images/bodyHeader.gif);
+}
+
+.frame .topRight {
+	background-image: url(../images/bodyTopRight.gif);
+	width: 74px;
+	min-width: 74px;
+	white-space: nowrap;
+}
+
+.frame .middleLeft {
+	background-image: url(../images/bodyLeft.gif);
+	width: 74px;
+	min-width: 74px;
+}
+
+.frame .middleRight {
+	background-image: url(../images/bodyRight.gif);
+	width: 74px;
+	min-width: 74px;
+}
+
+.frame .bottomLeft {
+	background-image: url(../images/bodyBottomLeft.gif);
+	width: 74px;
+	min-width: 74px;
+	height: 70px;
+}
+
+.frame .bottomCenter {
+	background-image: url(../images/bodyFooter.gif);
+}
+
+.frame .bottomRight {
+	background-image: url(../images/bodyBottomRight.gif);
+	width: 74px;
+	min-width: 74px;
+	height: 70px;
+}
+
+/******************** Content Frame ********************/
+.Series h2 {
+    font-size: 1.3em;
+}
+
+.Series h3 {
+    font-size: 1em;
+    margin: 0px;
+}
+
+.Series li {
+    list-style-type: none;
+}
+
+.ISBN {
+        font-weight: bold;
+        display: block;
+}
