@@ -8,6 +8,13 @@
         <a href="images/2009 Ireland group 1 065.jpg">
             <img src="images/2009 Ireland group 1 065 small.jpg" alt="" title="" align="right" /></a>
 
+        <h2>County Antrim</h2>
+        <ul>
+            <li>
+                <h3>Racavan Burying Ground, Racavan Parish</h3>
+                <p>contains 895 names.  <span class="price">$80.00</span> <span class="ISBN">ISBN 978-1-927357-66-8</span> 2020</p>
+            </li>
+        </ul>
 
         <h2>County Donegal</h2>
         <ul>
@@ -45,6 +52,10 @@
                 <h3>Maguiresbridge Presbyterian Cemetery</h3>
                 <p>contains 206 names. <span class="price">$25.00</span> <span class="ISBN"> ISBN 978-1-927357-42-2</span> 2014</p>
             </li>
+            <li>
+                <h3>St. Mary’s Roman Catholic Cemetery, Maguiresbridge</h3>
+                <p>contains 1296 names. <span class="price">$80.00</span> <span class="ISBN">ISBN 978-1-927357-68-2  </span> 2014</p>
+            </li>
         </ul>
 
         <h2>Aghavea Parish</h2>
@@ -56,6 +67,10 @@
             <li>
                 <h3>Aghavea Church of Ireland Cemetery</h3>
                 <p>contains 1118 names. <span class="price">$80.00</span> <span class="ISBN"> ISBN 978-1-927357-38-5</span> 2013</p>
+            </li>
+            <li>
+                <h3>St. Mary’s Roman Catholic Churchyard and Carrickyheenan Road Cemetery Brookeborough</h3>
+                <p>contains 692 names. <span class="price">$70.00</span> <span class="ISBN"> ISBN 978-1-927357-65-1</span> 2019</p>
             </li>
         </ul>
 
@@ -151,8 +166,12 @@
         <h2>Drumkeeran Parish</h2>
         <ul>
             <li>
+                <h3>Tirwinny Methodist Cemetery</h3>
+                <p>contains 89 names. <span class="price">$30.00.</span> <span class="ISBN">ISBN 978-1-927357-69-9</span> 2020</p>
+            </li>
+            <li>
                 <h3>Tubrid Church of Ireland Graveyard</h3>
-                <p>contains 574 names. <span class="price">$40.00.</span> <span class="ISBN">978-1-927357-60-0</span></p>
+                <p>contains 574 names. <span class="price">$40.00.</span> <span class="ISBN">978-1-927357-60-0</span> 2018</p>
             </li>
         </ul>
 
@@ -161,6 +180,10 @@
             <li>
                 <h3>Enniskillen Poor Law Union, Outdoor Relief Register Index: 1847-1899</h3>
                 <p>contains about 3000 names from Fermanagh, Tyrone and Cavan. <span class="price">$60.00</span> <span class="ISBN">ISBN 978-0-9781764-1-9</span> 2009</p>
+            </li>
+            <li>
+                <h3>Memorials in the Enniskillen Presbyterian Church</h3>
+                <p>contains over 110 names. <span class="price">$25.00</span> <span class="ISBN">ISBN 978-1-927357-67-5</span> 2020</p>
             </li>
             <li>
                 <h3>Mount Lourdes Convent Cemetery, Enniskillen</h3>
@@ -212,6 +235,14 @@
             </li>
         </ul>
 
+        <h2>Magheraculmoney Parish</h2>
+        <ul>
+            <li>
+                <h3>A Comprehensive Index of the St. Mary’s Ardess Church of Ireland, Magheraculmoney Parish Registers, 1763-1918</h3>
+                <p>contains over 15,600 entries for Fermanagh and Tyrone. <span class="price">$500.00</span> <span class="ISBN">ISBN 978-1-927357-71-2 (Hard Cover)</span> 2021</p>
+            </li>
+        </ul>
+
         <h2>Rossorry Parish</h2>
         <ul>
             <li>
@@ -234,6 +265,10 @@
 
         <h2>County Leitrim</h2>
         <ul>
+            <li>
+                <h3>Kiltyclogher Church of Ireland Churchyard, Cloonclare Parish</h3>
+                <p>contains 20 names from Leitrim and Fermnagh. <span class="price">$25.00</span> <span class="ISBN">ISBN 978-1-927357-79-5  </span> 2020</p>
+            </li>
             <li>
                 <h3>Old Rossinver Graveyard, Rossinver Parish</h3>
                 <p>contains 1073 names  <span class="price">$80.00</span> <span class="ISBN">ISBN 978-1-927357-50-7</span> 2016</p>
